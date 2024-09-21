@@ -1,8 +1,32 @@
-# React + Vite
+# React Clean JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta é a versão inicial de uma tentativa de aplicação de uma arquitetura mais limpa e clara em um projeto React. Futuramente, este projeto também será configurado com Webpack.
 
-Currently, two official plugins are available:
+## Objetivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O objetivo deste projeto é criar uma estrutura básica e limpa para projetos simples em React.
+
+## Futuras Implementações
+
+- Configuração com Webpack
+- Melhorias na arquitetura e organização do código
+
+## Como começar
+
+1. Clone o repositório
+2. Instale as dependências com `npm install`
+3. Inicie o projeto com `npm start`
+
+## Estrutura do Projeto
+
+```
+/src
+  /components
+  /containers
+  /services
+  /utils
+```
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
