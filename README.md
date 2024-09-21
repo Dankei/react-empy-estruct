@@ -21,9 +21,11 @@ O objetivo deste projeto é criar uma estrutura básica e limpa para projetos si
 
 ```
 /src
+  /assets
   /components
-  /containers
+  /pages
   /services
+  /styles
   /utils
 ```
 
